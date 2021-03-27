@@ -1,8 +1,8 @@
 package by.htp.les05.cycle;
 
 public class Task29 {
-
+// 29. Даны два числа. Определить цифры, входящие в запись как первого так и второго числа.
 	public static void task() {
-		System.out.println("");
+		System.out.println("29. Даны два числа. Определить цифры, входящие в запись как первого так и второго числа.");
 	}
 }
