@@ -6,7 +6,7 @@ public class Main {
 
 	public static void main(String[] args) {
 		Task01.task();
-//		Task02.task();
+		Task02.task();
 //		Task03.task();
 //		Task04.task();
 //		Task05.task();
