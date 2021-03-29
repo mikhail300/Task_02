@@ -23,6 +23,7 @@ public class Task04 {
 			System.out.println("\t" + "Числа не равны");
 			
 		}
+		
 		System.out.println();
 	}
 }

@@ -22,6 +22,7 @@ public class Task03 {
 			System.out.println("\t" + "no");
 			
 		}
+		
 		System.out.println();
 	}
 }

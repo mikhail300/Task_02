@@ -25,6 +25,7 @@ public class Task06 {
 			System.out.println("\t" + "Наибольшее число b = " + b);
 			
 		}
+		
 		System.out.println();
 	}
 }

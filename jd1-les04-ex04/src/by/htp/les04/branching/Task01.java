@@ -25,6 +25,7 @@ public class Task01 {
 			System.out.println("\t" + "8");
 		
 		}
+		
 		System.out.println();
 	}
 }
