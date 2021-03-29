@@ -11,8 +11,8 @@ public class Task05 {
 		a = 4;
 		b = 6;
 		
-		System.out.println();
 		System.out.println("\t" + "a = " + a + ", b = " + b);
+		System.out.println();
 		
 		if (a < b) {
 			

@@ -4,16 +4,15 @@ public class Task04 {
 // 4. Составить программу: равны ли два числа а и b?
 	public static void task() {
 		System.out.println("4. Составить программу: равны ли два числа а и b?");
-		System.out.println();
-		
+				
 		int a;
 		int b;
 		
 		a = 3;
 		b = 4;
 		
-		System.out.println();
 		System.out.println("\t" + "a = " + a + ", b = " + b);
+		System.out.println();
 		
 		if (a == b) {
 			
