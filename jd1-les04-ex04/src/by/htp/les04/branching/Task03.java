@@ -9,6 +9,9 @@ public class Task03 {
 		int a;
 		a = 4;
 		
+		System.out.println();
+		System.out.println("\t" + "a = " + a );
+		
 		if (a < 3) {
 			
 			System.out.println("\t" + "yes");

@@ -9,7 +9,7 @@ public class Main {
 		Task02.task();
 		Task03.task();
 		Task04.task();
-//		Task05.task();
+		Task05.task();
 //		Task06.task();
 //		Task07.task();
 //		Task08.task();

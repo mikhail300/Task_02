@@ -12,6 +12,9 @@ public class Task04 {
 		a = 3;
 		b = 4;
 		
+		System.out.println();
+		System.out.println("\t" + "a = " + a + ", b = " + b);
+		
 		if (a == b) {
 			
 			System.out.println("\t" + "Числа равны");
@@ -21,5 +24,6 @@ public class Task04 {
 			System.out.println("\t" + "Числа не равны");
 			
 		}
+		System.out.println();
 	}
 }
