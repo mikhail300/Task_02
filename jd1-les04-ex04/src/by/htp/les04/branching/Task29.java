@@ -37,5 +37,6 @@ public class Task29 {
 			System.out.println("\t" + "Точки не расположены на одной прямой.");
 
 		}
+		System.out.println();
 	}
 }
