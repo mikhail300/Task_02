@@ -17,6 +17,7 @@ public class Task25 {
 			System.out.println("\t" + "Пожароопасная ситуация!");
 
 		}
+		System.out.println();
 
 	}
 }

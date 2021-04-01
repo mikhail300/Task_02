@@ -54,6 +54,7 @@ public class Task28 {
 				System.out.println("\t" + "max(d — a, d — b, d —c) = " + dc);
 
 			}
+			System.out.println();
 		}
 	}
 }
