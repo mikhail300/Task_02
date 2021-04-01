@@ -6,25 +6,25 @@ public class Task21 {
 	public static void task() {
 		System.out.println("21. Программа — льстец. На экране высвечивается вопрос «Кто ты: мальчик или девочка? Введи Д или М». ");
 		System.out.println("В зависимости от ответа на экране должен появиться текст «Мне нравятся девочки!» или «Мне нравятся мальчики!».");
-		
+
 		System.out.println("\t" + "«Кто ты: мальчик или девочка? Введи Д или М».");
 		System.out.println();
-		
+
 		char gender;
 		gender = 'М';
-		
+
 		if (gender == 'Д') {
-			
+
 			System.out.println("\t" + "Мне нравятся девочки!");
-			
+
 		}
-		
+
 		if (gender == 'М') {
-			
+
 			System.out.println("\t" + "Мне нравятся мальчики!");
-			
+
 		}
-		
+
 		System.out.println();
 	}
 }
