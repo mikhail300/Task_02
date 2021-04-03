@@ -50,5 +50,6 @@ public class Task33 {
 		}
 			break;
 		}
+		System.out.println();
 	}
 }
