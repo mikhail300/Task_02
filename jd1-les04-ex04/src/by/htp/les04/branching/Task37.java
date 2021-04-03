@@ -14,9 +14,13 @@ public class Task37 {
 		System.out.println();
 
 		if (x >= 3) {
+			
 			y = -x * x + 3 * x + 9;
+			
 		} else {
+			
 			y = 1 / (Math.pow(x, 3) - 6);
+			
 		}
 
 		System.out.println("\t" + "F(x = " + x + ") = " + y);
