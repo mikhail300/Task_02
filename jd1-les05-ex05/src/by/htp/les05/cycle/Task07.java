@@ -16,7 +16,7 @@ public class Task07 {
 
 		int y;
 		y = 0;
-		
+
 		System.out.println("\t" + "Отрезок [" + a + ", " + b + "], шаг: " + h);
 		System.out.println();
 
@@ -25,15 +25,19 @@ public class Task07 {
 			// System.out.print (i + ", ");
 			// i = i + 1;
 			if (a > 2) {
+
 				y = a;
+
 			} else if (a <= 2) {
+
 				y = -a;
+
 			}
+
 			System.out.println("\t" + "При x = " + a + " y = " + y);
 			a = a + h;
 		}
 
 		System.out.println();
-
 	}
 }
