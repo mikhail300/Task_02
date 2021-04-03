@@ -17,7 +17,7 @@ public class Task30 {
 
 		System.out.println("\t" + "a = " + a + ", b = " + b + ", c = " + c);
 		System.out.println();
-		
+
 		if (a > b && b > c) {
 
 			a = 2 * a;
@@ -33,7 +33,7 @@ public class Task30 {
 		}
 
 		System.out.println("\t" + "Итоговые значения a, b и c: " + a + ", " + b + ", " + c);
-		
+
 		System.out.println();
 	}
 }
