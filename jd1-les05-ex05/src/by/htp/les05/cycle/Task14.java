@@ -18,7 +18,8 @@ public class Task14 {
 			sum = sum + 1 / n;
 			n++;
 		}
-		System.out.println("Сумма: " + sum);
+		
+		System.out.println("\t" + "Сумма: " + sum);
 		System.out.println();
 	}
 }

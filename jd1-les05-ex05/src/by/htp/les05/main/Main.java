@@ -19,12 +19,12 @@ public class Main {
 		Task12.task();
 		Task13.task();
 		Task14.task();
-//		Task15.task();
-//		Task16.task();
-//		Task17.task();
-//		Task18.task();
-//		Task19.task();
-//		Task20.task();
+		Task15.task();
+		Task16.task();
+		Task17.task();
+		Task18.task();
+		Task19.task();
+		Task20.task();
 //		Task21.task();
 //		Task22.task();
 //		Task23.task();
