@@ -7,19 +7,20 @@ public class Task11 {
 
 		int a;
 		a = 0;
+
 		int diff;
 		diff = 0;
 
 		System.out.println();
-		
+
 		while (a <= 200) {
-			
-			diff = diff + (int) Math.pow(a, 3);
+
+			diff = diff - (int) Math.pow(a, 3);
 			a++;
-			
+
 		}
 
 		System.out.println("\t" + "Разность кубов = " + diff);
-
+		System.out.println();
 	}
 }
